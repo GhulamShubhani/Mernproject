@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.navbar{
+  height: 70px;
+  font-size: 62.5px;
+}
+
+.s2{
+  margin-top: 155px;
+}
+
+.contact_info_item{
+  height:70px;
+  width: 250px;
+  background-color: rgb(164, 206, 243);
+}
